@@ -1,3 +1,9 @@
+---
+layout: post
+title: Sford
+---
+
+
 Big news! It turns out I have a long-lost twin. 
 
 Her name is Rylie and we’ve recently reconnected. As fate has it, she grew up in Portland, Maine and is currently attending Universidad Centroccidental Lisandro Alvarado (UCLA). 
