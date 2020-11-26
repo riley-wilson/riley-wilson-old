@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Readability Post
+title: Experience machines and video games
 ---
+
+*Note this post was probably posted earlier than the date. What's on record is when I ported this from a squarespace to a wordpress site.*
+
 Robert Nozick in his *Anarchy, State and Utopia* asks us to imagine a machine that we can plug into and it will simulate anything we desire. While we’re inside, we can experience the joys associated having a fulfilling job, listening to good music, falling in love, or talking with friends. Think of it like a pleasant Matrix. All of these images and corresponding feelings are produced by some clever electrical stimulation of our neurons and as long as we are plugged in, our experience is indistinguishable from real life.
 
 Nozick says we gain something by imagining such a machine and then “realizing we would not want to use it.” He believes our repulsion to plugging in is summarized in three points.
 
-We actually want to do things and not only have the experience that we’ve done them. Wanting the experience of doing something, as Nozick says, is often just an indicator that we want to do the thing. How else are you going to get the experience?
+1. We actually want to do things and not only have the experience that we’ve done them. Wanting the experience of doing something, as Nozick says, is often just an indicator that we want to do the thing. How else are you going to get the experience?
 
-We want to be the type of person that actually does things. To plug into the experience machine is to acquiesce to the triumphs and vicissitudes of real life and become a type of “indeterminate blob,” according to Nozick. With every experience preordained, there is no opportunity to indicate or build one’s general, or moral, character. If we’re plugged into the machine, it’s impossible for us to know whether we are “courageous , kind, intelligent, witty, or loving,” and depending on what you believe, if we don’t have the opportunity to exercise these traits outside of a determined environment, we can’t be any of the above.
+2. We want to be the type of person that actually does things. To plug into the experience machine is to acquiesce to the triumphs and vicissitudes of real life and become a type of “indeterminate blob,” according to Nozick. With every experience preordained, there is no opportunity to indicate or build one’s general, or moral, character. If we’re plugged into the machine, it’s impossible for us to know whether we are “courageous , kind, intelligent, witty, or loving,” and depending on what you believe, if we don’t have the opportunity to exercise these traits outside of a determined environment, we can’t be any of the above.
 
-Plugging in limits us to an artificial reality. This cuts us off from any type of “deeper reality,” and the potential spiritual experience that can come with it.
+3. Plugging in limits us to an artificial reality. This cuts us off from any type of “deeper reality,” and the potential spiritual experience that can come with it.
 
 I would not use the experience machine, and I think if you asked most people they would say they wouldn’t either. (If you believe that pleasure is the chief human good, then I can see how you could argue that plugging in is the rational thing to do, as pleasure itself is not concerned with whether it is caused by electrodes tickling your brain or some good pasta. If you have that position send me a message; I want to talk about it). Yet, I think there’s a paradox here: if what Nozick says is true, why do so many people play video games?
 
