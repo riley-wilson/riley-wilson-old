@@ -13,12 +13,14 @@ cover: false
   {% for collection in site.collections %}
     {% if collection.docs.size > 0 %}
     <section id="posts">
-      <details {% if collection.default_open %}open{% endif %}>
+      <div>
         <summary>
           <h3 class="home-page-heading">{{ collection.title }}</h3>
         </summary>
         <div class="parent">
-          {% for post in collection.docs %}
+        {% assign posts = collection.docs | sort: 'date' | reverse %}
+          {% for post in posts %}
+    
           <div class="post-wrapper">
             <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%Y" }}</time>
             <a class="post-link" href="{{ post.url }}">
@@ -27,7 +29,7 @@ cover: false
           </div>
           {% endfor %}
         </div>
-      </details>
+      </div>
     </section>
     {% endif %}
   {% endfor %}
