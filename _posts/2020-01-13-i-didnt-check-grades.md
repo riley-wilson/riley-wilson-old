@@ -40,7 +40,7 @@ I can see a skeptic coming up with a counterargument. They might say that knowin
 
 --
 
-This is reasoning, in some inchoate form, was what was floating around my head when I decided not to check my grades after my first quarter of college, and the second, and the third, and the fourth, etc... I had a faint idea of what my GPA was since I saw the marks on the tests I got back, but it was very vague. Basically, I knew I wasn't going to be on academic probation anytime soon.
+This reasoning, in some inchoate form, was what was floating around my head when I decided not to check my grades after my first quarter of college, and the second, and the third, and the fourth, etc... I had a faint idea of what my GPA was since I saw the marks on the tests I got back, but it was very vague. Basically, I knew I wasn't going to be on academic probation anytime soon.
 
 I must also emphasize this is the literal truth. I didn't peek here and there or do some back of the napkin math to get an approximate sense of my grades. I was in complete and utter ignorance of my official GPA.
 
