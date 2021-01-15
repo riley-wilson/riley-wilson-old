@@ -5,7 +5,7 @@ title: Afeyan on America
 
 Noubar Afeyan is the CEO of Moderna. His thoughts about America, as expressed in an [interview](https://conversationswithtyler.com/episodes/noubar-afeyan/) with Tyler Cowen, struck me. For context, Afeyan is an Armenian-Lebanese immigrant.
 
-The idea of being an "American by choice" is really interesting to me. 
+The idea of being an "American by choice" is really interesting. 
 
 **COWEN:** Last question. How do we attract more people like you to come to America?
 
