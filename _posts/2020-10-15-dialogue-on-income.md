@@ -118,5 +118,3 @@ Parker: Yeah, it’s interesting.
 —
 
 [Here](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bioe.12327?casa_token=6nrIUprbK4YAAAAA:K02HB2u9l7XonriBhe49NnFd698tesdSDa5VB3v7FbXutnJF6zkNhDwyyse_7Z8pHvemAQ4yolZy9Q) is the link to the Minerva article. The main ideas covered in the dialogue aren’t particularly original. For instance, Harry Frankfurt’s [article](https://www.jstor.org/stable/pdf/2381290.pdf?casa_token=M_47CqG3snUAAAAA:2dVDuHtUtg7E8-os2HQkPe78tfbNpjSHpoxek00nkRMwgQyXa75mtoVeKogjPloTM61j2-uCT6ieXqgzvD5U8gKC7vUe-8gLC0lag4rFkWRK_OqGIbg) on economic inequality has heavily influenced my thinking.
-
-My personal views on economic inequality aren’t Andrew’s and aren’t Parker’s. I think Parker’s onto something deep and important, but I have reservations about some of what she says. If you want to hear my full thoughts, send me an email and we can chat.
