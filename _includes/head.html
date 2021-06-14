@@ -4,9 +4,7 @@
   {% assign description = site.description %}
 {% endif %}
 
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -36,5 +34,9 @@
        }
       }
     </script>
+  {% endif %}
+  
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
   {% endif %}
 </head>
