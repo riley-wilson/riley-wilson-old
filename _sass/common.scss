@@ -9,13 +9,14 @@ html, body {
 
 body {
   font-size: 20px;
-  //font-family: var(--typography__default);
-  font-weight: 400;
+  font-family: var(--typography__default);
+  font-weight: 375;
   display: flex;
   flex-direction: column;
   max-width: 55%;
   //margin: 8px auto;
   margin-left: 10%;
+  background-color: #fffff0
 
 }
 
@@ -84,11 +85,13 @@ code, pre {
 
 a {
   color: #333;
+  text-decoration: underline;
+	text-decoration-color: #30d5c8;
 }
 
 a:hover {
-  background-color: #990000;
-  color: #ffffff;
+  background-color: #30d5c8;
+  color: #000000;
 }
 
 .post-date {
@@ -99,7 +102,7 @@ a:hover {
 .post-wrapper {
   display: flex;
   margin: 0.8em 0;
-  font-size: 1.25rem;
+  font-size: 1.6rem;
 }
 
 .prev {
@@ -211,7 +214,7 @@ ul, ol {
 }
 
 li {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   line-height: 1.6em;
   color: #333;
 }
