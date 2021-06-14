@@ -23,3 +23,7 @@ defaults:
 
 plugins:
   - jekyll-sitemap
+
+
+# Google Analytics
+google_analytics: G-MRPB44SK3R
