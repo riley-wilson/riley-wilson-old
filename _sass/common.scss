@@ -8,15 +8,15 @@ html, body {
 }
 
 body {
-  font-size: 12px;
+  font-size: 16px;
   font-family: var(--typography__default);
   font-weight: 375;
   display: flex;
   flex-direction: column;
-  max-width: 55%;
-  //margin: 8px auto;
-  margin-left: 10%;
-  background-color: #fffff0
+  max-width: 700px;
+  margin: 8px auto;
+  //margin-left: 35%;
+  //background-color: #fffff0
 
 }
 
