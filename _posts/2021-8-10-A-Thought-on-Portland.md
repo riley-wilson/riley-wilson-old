@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Thoughts on Portland 
+title: Thoughts on Portland
 ---
+
+testing for new theme
+
 
 Every city, according to [Paul Graham](http://www.paulgraham.com/cities.html), tries to tell you something. For instance, walking around New York you might get the sense you need to be more fashionable, or make more money. A stroll through downtown San Francisco might prod you to join a startup, or at least work in technology.  The culture of a city tugs at you, hinting you should be more X and less Y. It’s the place softly whispering what it wants.  
 
